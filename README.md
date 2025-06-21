@@ -63,3 +63,7 @@
 ![Zabbix Agent Config](https://github.com/Evgenii199130/my_proekt/blob/main/Screen/Zabbix%20%D1%85%D0%BE%D1%81%D1%82%D1%8B.png)  
 
 ---  
+
+
+Ссылка на телеграмм бота t.me/HeadsTails13Bot
+Мой телеграмм @Igan310
